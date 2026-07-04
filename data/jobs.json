@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "slug": "frontend-developer",
+    "title": "Frontend Developer",
+    "company": "TechNova Solutions",
+    "companyLogo": "/logos/technova.png",
+    "website": "https://technova.example",
+    "location": "Cairo, Egypt",
+    "employmentType": "Full-time",
+    "experience": "2-4 Years",
+    "datePosted": "2026-06-20",
+    "validThrough": "2026-07-20",
+    "description": "We are looking for a skilled Frontend Developer with experience in React and Next.js to build modern, responsive web applications.",
+    "salary": {
+      "currency": "EGP",
+      "value": 25000
+    }
+  },
+  {
+    "id": "2",
+    "slug": "backend-laravel-developer",
+    "title": "Backend Laravel Developer",
+    "company": "Digital Horizon",
+    "companyLogo": "/logos/digital-horizon.png",
+    "website": "https://digitalhorizon.example",
+    "location": "Alexandria, Egypt",
+    "employmentType": "Full-time",
+    "experience": "3-5 Years",
+    "datePosted": "2026-06-18",
+    "validThrough": "2026-07-18",
+    "description": "Join our backend team to build scalable REST APIs using Laravel, MySQL, Redis, Docker, and modern backend practices.",
+    "salary": {
+      "currency": "EGP",
+      "value": 30000
+    }
+  },
+  {
+    "id": "3",
+    "slug": "ui-ux-designer",
+    "title": "UI/UX Designer",
+    "company": "Creative Studio",
+    "companyLogo": "/logos/creative-studio.png",
+    "website": "https://creative.example",
+    "location": "Giza, Egypt",
+    "employmentType": "Part-time",
+    "experience": "2+ Years",
+    "datePosted": "2026-06-15",
+    "validThrough": "2026-07-15",
+    "description": "Design intuitive web and mobile interfaces while collaborating with developers and product managers.",
+    "salary": {
+      "currency": "EGP",
+      "value": 18000
+    }
+  },
+  {
+    "id": "4",
+    "slug": "devops-engineer",
+    "title": "DevOps Engineer",
+    "company": "CloudStack",
+    "companyLogo": "/logos/cloudstack.png",
+    "website": "https://cloudstack.example",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "experience": "4+ Years",
+    "datePosted": "2026-06-10",
+    "validThrough": "2026-07-10",
+    "description": "Manage cloud infrastructure, CI/CD pipelines, Kubernetes clusters, Docker, and AWS services.",
+    "salary": {
+      "currency": "USD",
+      "value": 2500
+    }
+  },
+  {
+    "id": "5",
+    "slug": "flutter-developer",
+    "title": "Flutter Developer",
+    "company": "AppWorks",
+    "companyLogo": "/logos/appworks.png",
+    "website": "https://appworks.example",
+    "location": "Dubai, UAE",
+    "employmentType": "Contract",
+    "experience": "2-3 Years",
+    "datePosted": "2026-06-22",
+    "validThrough": "2026-07-22",
+    "description": "Develop cross-platform mobile applications using Flutter and integrate REST APIs.",
+    "salary": {
+      "currency": "AED",
+      "value": 12000
+    }
+  }
+]
