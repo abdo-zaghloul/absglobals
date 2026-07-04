@@ -159,15 +159,7 @@ export default function JobHeader({ job }: JobHeaderProps) {
           />
         </div>
 
-        {/* CTA */}
-        <div className="flex items-center gap-3">
-          <button className="rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-sm font-medium text-slate-700 transition-all hover:border-slate-300 hover:bg-slate-50 hover:shadow-sm active:scale-[0.98]">
-            Save Job
-          </button>
-          <button className="rounded-xl bg-blue-600 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition-all hover:bg-blue-700 hover:shadow-md active:scale-[0.98]">
-            Apply Now
-          </button>
-        </div>
+     
       </div>
     </div>
   );
