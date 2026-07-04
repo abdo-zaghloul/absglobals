@@ -9,10 +9,10 @@ export default function Footer() {
             <span className="flex h-6 w-6 items-center justify-center rounded-md bg-blue-600 text-xs font-bold text-white">
               J
             </span>
-            <span className="text-sm font-semibold text-slate-700">JobBoard</span>
+            <span className="text-sm font-semibold text-slate-700">absglobals</span>
           </div>
           <p className="text-xs text-slate-400">
-            © {new Date().getFullYear()} JobBoard Inc. All rights reserved.
+            © {new Date().getFullYear()} absglobals. All rights reserved.
           </p>
           <div className="flex gap-4 text-xs text-slate-400">
             {["Privacy", "Terms", "Cookies"].map((item) => (

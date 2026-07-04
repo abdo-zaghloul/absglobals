@@ -1,14 +1,4 @@
-// import { redirect } from "next/navigation";
-
-// /**
-//  * Root page → redirects to /jobs (the jobs listing page).
-//  */
-// export default function RootPage() {
-//   redirect("/jobs");
-// }
-
 "use client";
-
 import { useMemo, useState } from "react";
 import jobsData from "@/data/jobs.json";
 import { Job } from "@/types/job";

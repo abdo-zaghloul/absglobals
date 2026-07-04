@@ -10,7 +10,7 @@ export default function Navbar() {
             J
           </span>
           <span className="text-sm font-bold text-slate-900 tracking-tight">
-            JobBoard
+            absglobals
           </span>
         </Link>
       </div>
